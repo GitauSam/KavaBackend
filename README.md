@@ -1,4 +1,4 @@
-#Kava Backend
+# Kava Backend
 This application exposes simple rest apis to create a journal post and index journal posts.
 
 ## How to Run
